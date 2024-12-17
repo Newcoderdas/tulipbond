@@ -30,7 +30,7 @@ const HeroSection = () => {
         <div data-aos="fade-right" className="space-y-6">
           <h1 className="text-4xl font-semibolc">
             Owned and operated by Tulip Industries Pvt. Ltd., with its parent
-            company headquartered in SITE Karachi.{" "}
+            company headquartered in SITE, Karachi.{" "}
           </h1>
           <p className="text-gray-600">
             At Tulip Custom Bonded Warehouse, we are more than just a

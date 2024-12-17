@@ -3,7 +3,6 @@ import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-
 function Clients() {
   useEffect(() => {
     AOS.init({
@@ -19,10 +18,9 @@ function Clients() {
           className="w-2/3 sm:w-1/2 lg:w-full p-10 mx-auto text-start shadow-md bg-gradient-to-r from-red-600 to-orange-500 rounded-lg mb-6"
         >
           <h1 className=" text-xl md:text-3xl font-bold  text-white  ">
-            tulip warehouse is a member of site accositation of industry and
-            karachi chamber of commerce and industries
-                  </h1>
-                 
+            Tulip Warehouse is a member of the Site Association of Industry and
+            the Karachi Chamber of Commerce and Industry.
+          </h1>
         </div>
       </div>
     </>
