@@ -29,7 +29,7 @@ const features = [
     link: "#acre-land",
   },
   {
-    title: "70,000 SQ FT RCC Shed",
+    title: "70,000 SQ FT RCC A class Shed",
     description: "We offer a spacious 70,000 sq ft RCC shed for industrial or storage needs.",
     icon: <FaWarehouse size={36} className="text-red-600" />,
     link: "#rcc-shed",
